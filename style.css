@@ -1,0 +1,42 @@
+.title{
+    font-size: 40px;
+    font-family: 'Amarante', cursive;    
+}
+h1{
+    margin: 0px;
+    text-align: center;
+}
+.image{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+img{
+    width: 500px;
+}
+.list{
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+}
+button{
+    height: 46px;
+    width: 160px;
+    border: solid;
+    border-radius: 50px;
+    background-color: white;
+    color: black;
+    font-weight: 700;
+    border-color: black;
+    transition: background-color 0.5s,color 0.5s,border-color 0.5s;
+}
+button:hover{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border-color: rgb(255, 255, 255);
+}
+button:active{
+    background-color: rgb(124, 124, 124);
+    color: rgb(255, 255, 255);
+    border-color: rgb(61, 61, 61);
+}

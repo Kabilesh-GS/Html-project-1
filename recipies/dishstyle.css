@@ -1,0 +1,48 @@
+body{
+    border: solid;
+    border-radius: 30px;
+}
+h1{
+    margin: 0px;
+    text-align: center;
+}
+.title{
+    font-size: 40px;
+    font-family: 'Amarante', cursive;
+}
+img{
+    width: 500px;
+    border-radius: 60px;
+    border: solid;
+    border-color: black;
+}
+.image{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+p{
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    margin-top: 20px;
+}
+.about{
+    text-align: center;
+}
+h2{
+    font-family: 'Amarante', cursive;
+    font-size: 40px;
+    margin-bottom: 10px;
+    margin-left: 90px;
+}
+.iteams{
+    font-family: 'Oswald', sans-serif;
+    font-size: 22px;
+    margin-left: 170px;
+}
+ul{
+    margin-top: 10px;
+}
+ol{
+    margin-top: 10px;
+}
